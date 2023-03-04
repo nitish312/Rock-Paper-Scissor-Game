@@ -1,9 +1,9 @@
-# To-Do List
+# Rock-Paper-Scissor Game
 
-## Awesome React JS Project where you can write your tasks which has Add and Delete functionality.
+## Awesome Game in which you can play with a computer, check your score and also check computer moves. This is built with HTML, CSS and JavaScript.
 
 ## Use
-Try it - [Click Here](https://nitish312.github.io/To-Do-List_ReactJS/)
+Try it - [Click Here](https://nitish312.github.io/Rock-Paper-Scissor-Game/)
 
 ## Screenshot
-![reactJS_todo_SS](https://user-images.githubusercontent.com/94921807/222919000-255c8950-dcd0-49d3-8fb6-956de46fced2.PNG)
+![ss1](https://user-images.githubusercontent.com/94921807/184083916-3e278796-99f6-4b6a-ac3f-0cb87dcde4e4.PNG)
